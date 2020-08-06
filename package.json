@@ -1,0 +1,16 @@
+{
+  "name": "zoomclone",
+  "version": "1.0.0",
+  "description": "Web Version of Zoom with Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Yashika Bihani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
